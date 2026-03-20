@@ -24,9 +24,15 @@
 ````system.out.println(); system.out.println();system.out.println();````
 
 > Texto de Citações
+------------------------------
+
 | Cabeçalho 1 | Cabeçalho 2 |
 |------------ | ------------|
+| texto1      |   texto2    |
+| texto3      |   texto4    |
 
+[X] Tarefa 1 <br>
+[X] Tarefa 2 <br>
 
 <!--
 **tilearningwell/tilearningwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
