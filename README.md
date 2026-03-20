@@ -20,6 +20,13 @@
 
 ![Texto da Imagem] (https://www.google.com/imgres?q=por%20do%20sol&imgurl=https%3A%2F%2Fcdn.oantagonista.com%2Fuploads%2F2025%2F02%2Fpor-do-sol-exuberante_1740705757249-1024x576.jpg&imgrefurl=https%3A%2F%2Foantagonista.com.br%2Fladooa%2Fentretenimento%2Fo-por-do-sol-exuberante-dessa-cidade-e-de-dar-inveja%2F&docid=T-ZAiuiYOBze6M&tbnid=wRfkitPzFLrj1M&vet=12ahUKEwiW1_Sh9a2TAxWTlJUCHeHXDfgQnPAOegQIGBAB..i&w=1024&h=576&hcb=2&ved=2ahUKEwiW1_Sh9a2TAxWTlJUCHeHXDfgQnPAOegQIGBAB)
 
+`system.out.println();`
+````system.out.println(); system.out.println();system.out.println();````
+
+> Texto de Citações
+| Cabeçalho 1 | Cabeçalho 2 |
+|------------ | ------------|
+
 
 <!--
 **tilearningwell/tilearningwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
