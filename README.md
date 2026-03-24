@@ -16,7 +16,7 @@
 2. Lista 2
    1. Sublista
 
-<img scr="(https://i.sstatic.net/8A1zI.gif)" alt="Gif Simpsom">
+![Gif Simpsom](https://i.sstatic.net/8A1zI.gif)
 
 `system.out.println();`
 ````system.out.println(); system.out.println();system.out.println();````
