@@ -16,7 +16,7 @@
 2. Lista 2
    1. Sublista
 
-<img scr="https://pt.stackoverflow.com/questions/6457/como-posso-pausar-e-dar-play-em-um-gif" alt="Git Simpsom">
+<img scr="(https://i.sstatic.net/8A1zI.gif)" alt="Gif Simpsom">
 
 `system.out.println();`
 ````system.out.println(); system.out.println();system.out.println();````
